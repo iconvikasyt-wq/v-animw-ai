@@ -1,0 +1,6 @@
+{
+  "name": "Anime AI",
+  "description": "Japanese 2D/3D AI Anime video creation studio with multi-character extraction, consistent characters, Hindi voices, scene director, Ken Burns animation & MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
